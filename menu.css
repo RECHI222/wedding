@@ -1,0 +1,35 @@
+body{
+  background-color: rgb(255, 255, 255);
+}
+
+div {
+  /* border-top: 8px  gold; */
+  text-align: center;
+  /* border-top-style: dotted; */
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+h1 {
+  /* font-family: 'Dancing Script', cursive; */
+  /* font-family: 'Satisfy', cursive; */
+  font-family: 'Great Vibes', cursive;
+  font-size: 50px;
+  /* text-shadow: 4px 5px 3px rgb(233, 183, 216); */
+  transform: skewX(-20deg);
+}
+
+h2{
+  font-family: 'Dancing Script', cursive;
+margin-bottom: 7px;
+font-size: 20px;
+/* text-shadow: 2px 2px 3px pink; */
+transform: skewX(-7deg);
+}
+
+p {
+  margin-top: 0;
+  font-family: 'Stick', sans-serif;
+  font-size: 15px;
+  transform: skewX(-7deg);
+  margin-bottom: 20px;
+}

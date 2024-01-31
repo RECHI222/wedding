@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.main {
+  text-align: center;
+  margin-top: 500px;
+  margin-bottom: 0;
+}
+
+.side {
+  display: flex;
+
+}
+
+.contentright {
+  flex: 1;
+  margin: 10px 40px 0 auto;
+  padding-right: 40px;
+}
+
+.contentleft {
+ flex: 1;
+ margin: 10px auto 0 40px;
+ padding-left: 40px;
+}
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 50px;
+  /* text-shadow: 4px 5px 3px rgb(233, 183, 216); */
+  transform: skewX(-20deg);
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+  /* text-shadow: 4px 5px 3px rgb(233, 183, 216); */
+  transform: skewX(-20deg);
+  margin-bottom: 5px;
+
+}
+p {
+  margin-top: 0;
+  font-family: 'Stick', sans-serif;
+  font-size: 15px;
+  transform: skewX(-7deg);
+  margin-bottom: 5px;
+}
